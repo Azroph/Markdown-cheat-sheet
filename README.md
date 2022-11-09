@@ -27,7 +27,10 @@
 - Third item
 
 
-`code`
+`code
+ code
+ code
+`
 
 
 ---
@@ -76,9 +79,3 @@ That is so funny! :joy:
 
 
 I need to highlight these ==very important words==.
-
-
-H~2~O
-  
-  
-X^2^
